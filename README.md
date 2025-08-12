@@ -7,25 +7,25 @@
       <tr>
         <td align="center" width="25%">
           <a href="https://github.com/kimseoungji0801">
-            <img src="https://github.com/kimseoungji0801.png" width="120" height="120" alt="seoungji"><br>
+            <img src="https://github.com/kimseoungji0801.png" width="180" height="180" alt="seoungji"><br>
             <strong>김성지</strong>
           </a>
         </td>
         <td align="center" width="25%">
           <a href="https://github.com/Nadaeji">
-            <img src="https://github.com/Nadaeji.png" width="120" height="120" alt="jiyoon"><br>
+            <img src="https://github.com/Nadaeji.png" width="180" height="180" alt="jiyoon"><br>
             <strong>나지윤</strong>
           </a>
         </td>
         <td align="center" width="25%">
           <a href="https://github.com/SOOSOO999">
-            <img src="https://github.com/SOOSOO999.png" width="120" height="120" alt="jungsoo"><br>
+            <img src="https://github.com/SOOSOO999.png" width="180" height="180" alt="jungsoo"><br>
             <strong>배정수</strong>
           </a>
         </td>
         <td align="center" width="25%">
           <a href="https://github.com/misong-hub">
-            <img src="https://github.com/misong-hub.png" width="120" height="120" alt="misong"><br>
+            <img src="https://github.com/misong-hub.png" width="180" height="180" alt="misong"><br>
             <strong>백미송</strong>
           </a>
         </td>
@@ -59,13 +59,13 @@
 <table width="100%">
   <tr>
     <td align="center" valign="middle" width="33%">
-      <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="300"/><br />
+      <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="400"/><br />
     </td>
     <td align="center" valign="middle" width="33%">
-      <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="300"/><br />
+      <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="400"/><br />
     </td>
     <td align="center" valign="middle" width="33%">
-      <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="300"/>
+      <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="400"/>
     </td>
   </tr>
 </table>
